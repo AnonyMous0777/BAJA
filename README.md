@@ -1,3 +1,3 @@
 # BAJA
 
-Testcass and Annotations for BAJA
+Testcases and Annotations for BAJA
